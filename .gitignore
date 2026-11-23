@@ -1,3 +1,17 @@
+# data altogether, don't wanna take any chances
+data/
+
+# experiment tracking artifacts
+mlruns/
+mlartifacts/
+wandb/
+outputs/
+
+# notebooks
+.ipynb_checkpoints/
+
+#--------------------------------------------------------------------------------------<github template gitignore below>--------------------------------------------------------------------------------------
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
